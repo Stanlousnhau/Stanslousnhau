@@ -8,3 +8,7 @@ My efforts and learnings as I develop as a data analyst are displayed in this re
 
    * I am currently open to Data Analyst postion.
    * 📚 Bcom Degree in Statistics
+
+# Contact Me
+
+   * [Email](www.linkedin.com/in/stanslous-nhau)
