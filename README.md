@@ -1,1 +1,8 @@
-# Stanslousnhau
+My Journey into Data
+💻 Welcome to my GitHub! 
+My efforts and learnings as I develop as a data analyst are displayed in this repository. I have a huge passion in turning unprocessed data into insights that can be put to use, and I'm always looking to improve my abilities in data cleaning, analysis, reporting, and visualization.
+
+# 👤About Me
+
+   * I am currently open to Data Analyst postion.
+   * 📚 Bcom Degree in Statistics
