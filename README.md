@@ -11,4 +11,4 @@ My efforts and learnings as I develop as a data analyst are displayed in this re
 
 # Contact Me
 
-   * [Email](www.linkedin.com/in/stanslous-nhau)
+   * [linkedin](https://www.linkedin.com/in/stanslous-nhau-96ab9133b/)
