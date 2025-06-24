@@ -12,4 +12,4 @@ My efforts and learnings as I develop as a data analyst are displayed in this re
 # Contact Me
 
    * [Linkedin](https://www.linkedin.com/in/stanslous-nhau-96ab9133b/)
-   * [Email](smnhau03@gmail.com)
+   * [Email](https://www.smnhau03@gmail.com)
