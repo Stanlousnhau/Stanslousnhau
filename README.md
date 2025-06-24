@@ -9,7 +9,16 @@ My efforts and learnings as I develop as a data analyst are displayed in this re
    * I am currently open to Data Analyst postion.
    * 📚 Bcom Degree in Statistics
 
+
+
+# Skill & Tool 🛠️
+
+  * R: 📊
+  * SQL: 🔍
+    
+
+
 # Contact Me
 
    * [Linkedin](https://www.linkedin.com/in/stanslous-nhau-96ab9133b/)
-   * [Email](https://www.smnhau03@gmail.com)
+   * Email : smnhau03@gmail.com 
