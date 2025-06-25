@@ -6,12 +6,12 @@ My efforts and learnings as I develop as a data analyst are displayed in this re
 
 # 👤About Me
 
-   * I am currently open to Data Analyst postion.
+   * I am currently open to Data Analyst postions.
    * 📚 Bcom Degree in Statistics
 
 
 
-# Skill & Tool 🛠️
+# Skills & Tools 🛠️
 
   * R: 📊
   * SQL: 🔍
